@@ -1,0 +1,26 @@
+[
+    {
+        "id": "8230a58f-2070-461c-b6a5-fe8bef7cc190",
+        "name": "Beethel",
+        "age": "55",
+        "skills": [
+            "Coding"
+        ]
+    },
+    {
+        "id": "e8fee958-a90c-450a-8149-240c452a5cad",
+        "name": "JOhn",
+        "age": "20",
+        "skills": [
+            "singing"
+        ]
+    },
+    {
+        "id": "73aa3ecc-149d-4dc2-8dda-447174224dbe",
+        "name": "Glory",
+        "age": "40",
+        "skills": [
+            "Dancing"
+        ]
+    }
+]
