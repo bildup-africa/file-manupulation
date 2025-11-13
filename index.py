@@ -51,7 +51,6 @@ def delete_data_by_id(id):
         save_to_db(data["name"], data["age"], data["skills"])
 
 def update_data_by_id(id, **kwargs):
-
     name = kwargs.get("name", None)
     age = kwargs.get("age", None)
     skills = kwargs.get("skills", None)
