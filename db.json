@@ -1,26 +1,29 @@
 [
     {
-        "id": "8230a58f-2070-461c-b6a5-fe8bef7cc190",
-        "name": "Beethel",
+        "id": "3126a097-598c-437f-849b-a600449bbba9",
+        "name": "Bethel",
         "age": "55",
         "skills": [
-            "Coding"
+            "Coding",
+            "Dancing",
+            "Singing",
+            "Jogginh"
         ]
     },
     {
-        "id": "e8fee958-a90c-450a-8149-240c452a5cad",
-        "name": "JOhn",
+        "id": "94be8168-89be-48cd-a19e-76f6c1835296",
+        "name": "Jenny",
         "age": "20",
         "skills": [
-            "singing"
+            "Cooking"
         ]
     },
     {
-        "id": "73aa3ecc-149d-4dc2-8dda-447174224dbe",
-        "name": "Glory",
-        "age": "40",
+        "id": "061db591-6cee-4824-9d3a-2b2070957b54",
+        "name": "Jerry",
+        "age": "25",
         "skills": [
-            "Dancing"
+            "Fighting"
         ]
     }
 ]
