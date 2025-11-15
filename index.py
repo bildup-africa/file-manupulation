@@ -1,6 +1,8 @@
 import json
 import uuid
 
+from hash_string import hash_password
+
 
 def clear_db():
     print("i am clear db")
@@ -12,7 +14,7 @@ def save_to_db(name, age, skills):
         db_data = []
         data = {
             "id": str(uuid.uuid4()),
-            "name": name,
+            "name": str(hash_password(name)[1].hex()),
             "age": age,
             "skills": skills
         }
